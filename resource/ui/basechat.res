@@ -7,7 +7,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"1"
-		"ypos"					"230" // "55" for top left position below MGE opponents
+		"ypos"					"330" // "55" for top left position below MGE opponents
 		"wide"					"242"
 		"tall"					"100"
 		"fgcolor"				"255 255 255 255"
